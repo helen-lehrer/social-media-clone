@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Prototype Diagram
 
 <img src="src/img/social-media-clone.drawio.png">
-
+v
 ## Available Scripts
 
 In the project directory, you can run:
